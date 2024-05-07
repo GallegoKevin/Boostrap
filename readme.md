@@ -46,6 +46,7 @@ Comparación de contenedor original en cada punto de interrupción
     5. Extra large (xl)
     6. Extra extra large (xxl)
 
+
     | Breakpoint | xs         | sm         | md         | lg         | xl         | xxl        |
     |------------|------------|------------|------------|------------|------------|------------|
     |            | <576px    | ≥576px    | ≥768px    | ≥992px    | ≥1200px   | ≥1400px   |
