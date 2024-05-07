@@ -22,7 +22,7 @@ Los breakpoints disponibles son los siguientes:
 
 
    
-2. **CONTAINER**
+2. **CONTAINER:**
 Comparación de contenedor original en cada punto de interrupción
 
     |                   | Extra Small | Small | Medium | Large | X-Large | XX-Large |
@@ -36,19 +36,19 @@ Comparación de contenedor original en cada punto de interrupción
     | .container-xxl    | 100%        | 100%  | 100%   | 100%  | 100%    | 1320px   |
     | .container-fluid  | 100%        | 100%  | 100%   | 100%  | 100%    | 100%     |
 
-3. **GRID**
+3. **GRID:**
     Opciones de Grid:
-    The six default grid tiers are as follows:
-    Extra small (xs)
-    Small (sm)
-    Medium (md)
-    Large (lg)
-    Extra large (xl)
-    Extra extra large (xxl)
+    
+    1. Extra small (xs)
+    2. Small (sm)
+    3. Medium (md)
+    4. Large (lg)
+    5. Extra large (xl)
+    6. Extra extra large (xxl)
 
     | Breakpoint | xs         | sm         | md         | lg         | xl         | xxl        |
     |------------|------------|------------|------------|------------|------------|------------|
-    | Dimensiones | <576px    | ≥576px    | ≥768px    | ≥992px    | ≥1200px   | ≥1400px   |
+    |            | <576px    | ≥576px    | ≥768px    | ≥992px    | ≥1200px   | ≥1400px   |
     | Container max-width | None (auto) | 540px      | 720px      | 960px      | 1140px     | 1320px     |
     | Class prefix | .col-      | .col-sm-   | .col-md-   | .col-lg-   | .col-xl-   | .col-xxl-  |
 
@@ -87,6 +87,6 @@ Inlcuye los componentes:
 
 ### <h3>[BREAKPOINT MOBILE]</h3> 
 
- ![App Screenshot](https://i.ibb.co/vVqwrLQ/Bootstrap-mobile-127-0-0-1.png)
+ ![App Screenshot](https://i.ibb.co/QYQGhZM/Bootstrap-mobile-127-0-0-1.png)
 
  
